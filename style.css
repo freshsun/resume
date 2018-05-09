@@ -386,3 +386,7 @@ div.year{
 	border-right:1px
 }
 @media print { body { -webkit-print-color-adjust: exact; } }
+
+i{
+	color: #cf8a05;
+}
